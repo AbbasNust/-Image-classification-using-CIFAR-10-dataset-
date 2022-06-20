@@ -1,1 +1,1 @@
-# - Image classification using CIFAR-10 dataset: 
+# Image classification using CIFAR-10 dataset: 
