@@ -1,1 +1,1 @@
-# -Table-Detection-using-Deep-Learning-Faster-RCNN-
+# - Image classification using CIFAR-10 dataset: 
